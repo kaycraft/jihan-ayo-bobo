@@ -5,9 +5,9 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "ok ay baca doa dulu:>";
+  question.innerHTML = "ok ayo baca doa dulu:>";
   gif.src =
-    "2/jihan love.gif";
+    "https://tandarandom24.wordpress.com/wp-content/uploads/2019/10/tenor-78.gif?w=360";
 });
 
 noBtn.addEventListener("mouseover", () => {
