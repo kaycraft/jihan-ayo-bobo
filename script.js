@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "ok ayo baca doa dulu:>";
   gif.src =
-    "https://tandarandom24.wordpress.com/wp-content/uploads/2019/10/tenor-78.gif?w=360";
+    "Desain tanpa judul.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
